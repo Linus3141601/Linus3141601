@@ -1,6 +1,5 @@
 - Hi, I’m Linus (@Linus3141601)
 - I’m interested in Python
-- I’m currently learning Mojo
 - Pronouns: He/Him
 
 <!---
